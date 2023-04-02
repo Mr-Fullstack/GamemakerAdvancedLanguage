@@ -4,6 +4,7 @@
     {"name":"Extensions","order":13,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":6,"path":"folders/Fonts.yy",},
     {"name":"Learning","order":15,"path":"folders/Learning.yy",},
+    {"name":"Animation","order":8,"path":"folders/Learning/Animation.yy",},
     {"name":"MoveArea","order":7,"path":"folders/Learning/MoveArea.yy",},
     {"name":"MoveObjects","order":1,"path":"folders/Learning/MoveObjects.yy",},
     {"name":"Physics","order":6,"path":"folders/Learning/Physics.yy",},
@@ -23,7 +24,6 @@
     {"name":"Sounds","order":2,"path":"folders/Sounds.yy",},
     {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":7,"path":"folders/Timelines.yy",},
-    {"name":"Animation","order":8,"path":"folders/Learning/Animation.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Animation","order":7,"path":"rooms/Animation/Animation.yy",},
